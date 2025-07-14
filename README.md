@@ -102,4 +102,5 @@
 - **휴식 종료 알림** 기능 (진동, 사운드) 탑재 고려
 
 ---
+## 8. 학술제 포스터
 <img width="7015" height="9933" alt="Image" src="https://github.com/user-attachments/assets/9df7f9cf-fe71-4a1c-9bfb-281aab074726" />
