@@ -75,6 +75,7 @@
 - 실착용 가능한 형태로 하드웨어 완성
 - 실시간 심박수 측정 가능
 <img width="697" height="570" alt="Image" src="https://github.com/user-attachments/assets/631d1e81-233d-4048-9758-3841ffa4264f" />
+
 - 삼성 갤럭시 워치 4와 비교 측정 시 RMSE: 1.38 BPM
 
 ### ✅ 예측 성능 시각화
