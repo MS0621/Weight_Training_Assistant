@@ -100,10 +100,4 @@
 - **휴식 종료 알림** 기능 (진동, 사운드) 탑재 고려
 
 ---
-
-## 8. 📚 참고 문헌
-
-1. 권재윤 외, “홈트레이닝 트렌드 변화”, 한국사회체육학회지, 2022  
-2. 정환종 외, “심박수 기준 벤치프레스 휴식 조건 연구”, 한국스포츠학회지, 2020  
-3. Zhang et al., "TROIKA: PPG 신호 기반 심박수 측정", IEEE TBME, 2015 외
-
+<img width="7015" height="9933" alt="Image" src="https://github.com/user-attachments/assets/9df7f9cf-fe71-4a1c-9bfb-281aab074726" />
