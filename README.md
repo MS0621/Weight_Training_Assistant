@@ -23,6 +23,9 @@
 - 통신 방식: I2C
 - 전원: 3.3V~5V
 - 전체 구성은 회로도와 하드웨어 연결로 구현됨
+- 시스템의 구성도는 다음과 같다.
+<img width="1700" height="532" alt="Image" src="https://github.com/user-attachments/assets/ac8a2ce8-dee2-4e90-9251-5c94afbe779e" />
+
 
 ---
 
