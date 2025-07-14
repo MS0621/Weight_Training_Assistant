@@ -54,7 +54,7 @@
 
 📊 LSTM 모델 구조
 
-![LSTM 구조](https://github.com/user-attachments/assets/82cc495a-b436-4a73-a29b-a479adc2bb34)
+
 
 | 항목 | 내용 |
 |------|------|
