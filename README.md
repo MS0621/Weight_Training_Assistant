@@ -27,6 +27,10 @@
 <img width="1700" height="532" alt="Image" src="https://github.com/user-attachments/assets/ac8a2ce8-dee2-4e90-9251-5c94afbe779e" />
 
 
+- 시스템을 착용한 모습은 다음과 같다.
+<img width="1223" height="607" alt="image" src="https://github.com/user-attachments/assets/4d1cce33-6448-45a6-ae71-fc7c32f992b5" />
+
+
 ---
 
 ## 3. 🧪 실험 및 데이터 수집
