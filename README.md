@@ -100,6 +100,9 @@
 - 훈련 손실 감소 그래프 확인
 - 실제 심박수와 예측값이 유사하게 추종함
 
+<img width="872" height="309" alt="image" src="https://github.com/user-attachments/assets/9cde22a5-2d0b-472c-b23c-e1173e9b336c" />
+
+
 ---
 
 ## 6. ✅ 결론
