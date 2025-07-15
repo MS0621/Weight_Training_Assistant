@@ -13,11 +13,12 @@
 
 ### ✅ 개발환경
 
-|  | 개발환경 |
-|-----------|------|
-| Feather M0 WiFi | Arduino IDE |
-| PPG & ACC signal processing | MATLAB |
-| LSTM 훈련 | Google Colab |
+| 구성 요소               | 사용 도구 / 플랫폼      |
+|------------------------|--------------------------|
+| Feather M0 WiFi 보드   | Arduino IDE              |
+| PPG & ACC signal processing  | MATLAB                   |
+| LSTM 모델 훈련         | Google Colab (Python, TensorFlow) |
+
 
 
 ### ✅ 사용 부품
