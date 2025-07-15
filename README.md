@@ -11,6 +11,15 @@
 
 ## 2. ⚙️ 시스템 구성
 
+### ✅ 개발환경
+
+|  | 개발환경 |
+|-----------|------|
+| Feather M0 WiFi | Arduino IDE |
+| PPG & ACC signal processing | MATLAB |
+| LSTM 훈련 | Google Colab |
+
+
 ### ✅ 사용 부품
 
 | 구성 요소 | 설명 |
@@ -18,7 +27,7 @@
 | Feather M0 WiFi | 저전력 마이크로컨트롤러, WiFi 통신 지원 |
 | MAX30102 | PPG 기반 심박수 및 SpO2 측정 센서 |
 | MPU9250 | 9축 IMU (가속도, 자이로, 자기장) 센서 |
-| 배터리 파트 | 휴대용 전원 공급 장치 |
+| 배터리 파트 | 3.3V 리튬 전지 |
 
 - 통신 방식: I2C
 - 전원: 3.3V~5V
